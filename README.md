@@ -18,8 +18,8 @@ Learn about:
 
 
 ## Results
-Linear Kernel Accuracy: 0.9005847953216374
-RBF Kernel Accuracy: 0.9064327485380117
-Best Params (RBF): {'C': 1, 'gamma': 0.1}
-Cross-validation Accuracy: 0.8993354430379747
+- Linear Kernel Accuracy: 0.9005847953216374
+- RBF Kernel Accuracy: 0.9064327485380117
+- Best Params (RBF): {'C': 1, 'gamma': 0.1}
+- Cross-validation Accuracy: 0.8993354430379747
 <img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/20202b98-1df0-43c3-af8f-a1e29b15e63b" />
