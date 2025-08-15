@@ -8,7 +8,6 @@ Learn about:
 - Kernel trick
 - Hyperparameter tuning
 
----
 
 ## Tools & Libraries
 - Python 3.x
@@ -17,7 +16,6 @@ Learn about:
 - Scikit-learn
 - mlxtend (for decision boundary visualization)
 
----
 
 ## Results
 Linear Kernel Accuracy: 0.9005847953216374
